@@ -5,7 +5,7 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['5950985168557', '👑 KAIO - CREATOR 👑', true],
+  ['595985168557', '👑 KAIO - CREATOR 👑', true],
   ['5493425982496', 'KAIO - MODDER', true],
   ['5219996125657']
 ] // Cambia los numeros que quieras
