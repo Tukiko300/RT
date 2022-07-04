@@ -5,8 +5,8 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['5219991402134', '🤖 Mystic - Bot 🤖', true],
+  ['595985168557', '👑 KAIO - CREATOR 👑', true],
+  ['5493425982496', 'KAIO - MODDER', true],
   ['5219996125657']
 ] // Cambia los numeros que quieras
 global.mods = [] 
@@ -67,8 +67,8 @@ global.APIKeys = { // APIKey Here
 global.packname = '(☞ﾟ∀ﾟ)☞'
 global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
 
-global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.wm = '★𝗞𝗔𝗜𝗢★'
+global.igfg = '★𝗞𝗢𝗠𝗜★'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
